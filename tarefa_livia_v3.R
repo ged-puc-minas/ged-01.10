@@ -1,3 +1,5 @@
+# --->  Modelo de Processo de Decisão Markoviano
+
 # Parametros
 
 S = 3  # num de estados
